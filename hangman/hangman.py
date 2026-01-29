@@ -112,7 +112,6 @@ while True:
 
 
 
-
     if place_holder == word_chosen:
         print("You win")
         break
