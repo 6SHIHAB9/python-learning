@@ -17,3 +17,5 @@ while True:
                 winner = key
         print(f"The winner is {winner} with a bid of ${highest_bid} ")
         break
+
+    print("\n" * 100)
