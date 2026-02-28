@@ -8,8 +8,8 @@ def score(cards_list):
     for i in cards_list:
         scorie += i
     if scorie > 21:
-        if 10 in cards_list:
-            scorie -= 9
+        if 11 in cards_list:
+            scorie -= 10
     return scorie
 
 def result(l1_cards,l2_cards,hscore,cscore):
