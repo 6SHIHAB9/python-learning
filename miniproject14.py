@@ -4,6 +4,6 @@ def format_name(f_name,l_name):
 
     return f"{f_name} {l_name}"
 
-string = format_name("libnah","shihab")
+string = format_name("lfuck","shihab")
 
 print(string)
