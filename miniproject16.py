@@ -4,12 +4,7 @@ import random
 import re
 import sys
 
-#
-# Complete the 'jumpingOnClouds' function below.
-#
-# The function is expected to return an INTEGER.
-# The function accepts INTEGER_ARRAY c as parameter.
-#
+
 
 def jumpingOnClouds(c):
     jumps = 0
